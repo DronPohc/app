@@ -1,4 +1,4 @@
-# TDD + API-PLATFORM 
+# TDD + API-PLATFORM
 
 ### Quick Start
 
