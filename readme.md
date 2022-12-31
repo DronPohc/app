@@ -9,6 +9,7 @@ docker-composer up -d
 docker-composer exec app composer install
 # Clear cache
 docker-composer exec app php bin/console c:c
+
 ```
 #### Run Tests
 ```docker 
